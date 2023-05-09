@@ -17,7 +17,7 @@ Then, you need to fill **the database.env file** in the config directory of the 
 
 Next step to run the app.
 
-```bash
+
 ## Running the app
 
 ```bash
